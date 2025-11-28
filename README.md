@@ -20,3 +20,6 @@ https://developers.google.com/earth-engine/datasets/catalog/projects_gcp-public-
 https://deepmind.google/science/weathernext/
 
 https://github.com/google-deepmind/graphcast/tree/main
+
+# Shape creation
+Works with only python 3.10 because tkinter breaks for the more recent versions of python
